@@ -19,8 +19,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-1B7xfCyOnB)
+- Live Site URL: [Live site URL here](https://interactive-rating-component-kb.netlify.app/)
 
 ## My process
 
